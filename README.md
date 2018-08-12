@@ -20,6 +20,9 @@ Projeto drone com BBC micro:bit
 # Demonstração
 - [Vídeo do protótipo utilizando a matriz de LEDs do BBC micro:bit](https://youtu.be/twl8z7fc-IY)
 
+# Código fonte
+- [Drone](microbitDrone.js)
+- [Controle](microbitDroneControle.js)
+
 # Referencias
 - [Construa seu Drone](https://www.youtube.com/watch?v=972Z_QBTgM8)
-
