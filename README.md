@@ -1,12 +1,14 @@
 Projeto drone com BBC micro:bit
 
 # Materiais
+
 ## Drone
 - 1 BBC micro:bit
 - 1 placas expansoras
 - 4 motores
 - 4 ESCs
 - 1 bateria
+
 ## Controle
 - 1 BBC micro:bit
 
