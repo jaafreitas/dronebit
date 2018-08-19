@@ -4,10 +4,10 @@ Projeto drone com BBC micro:bit
 
 ## Drone
 - 1 BBC micro:bit
-- 1 placas expansoras
-- 4 motores
-- 4 ESCs
-- 1 bateria
+- 1 placa expansora Robotbit
+- 4 motores brushless 1000KV
+- 4 ESCs Simonk30A
+- 1 bateria de 2200mAh de 3 células
 
 ## Controle
 - 1 BBC micro:bit
@@ -27,3 +27,5 @@ Projeto drone com BBC micro:bit
 
 # Referencias
 - [Construa seu Drone](https://www.youtube.com/watch?v=972Z_QBTgM8)
+- [Robotbit](https://makecode.microbit.org/pkg/kittenbot/pxt-robotbit)
+- [Biblioteca Robotbit](https://github.com/kittenbot/pxt-robotbit)
